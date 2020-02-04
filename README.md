@@ -1,5 +1,5 @@
 # Project-4-Sentiment-Analysis
-#"Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts"
+Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts"\\
 Reproduced by Kassymkhan Tengel and Nagima Chalkarova
 
 
